@@ -11,3 +11,5 @@ K
 tests/dream-sharing.test.ts,6/b/6bde7d4078c69ca4801d5de815f9952b68b1d4a5
 L
 contracts/dream-journal.clar,1/6/16636eb5071c382163355d9566291f8d360aeba7
+K
+tests/dream-journal.test.ts,e/9/e96723eb61f2d91399af55e3879e4031ba408e8d

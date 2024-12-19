@@ -9,3 +9,5 @@ L
 contracts/dream-sharing.clar,8/0/8091cadc52e36dba079575efd0ff104a31ecfbf9
 K
 tests/dream-sharing.test.ts,6/b/6bde7d4078c69ca4801d5de815f9952b68b1d4a5
+L
+contracts/dream-journal.clar,1/6/16636eb5071c382163355d9566291f8d360aeba7

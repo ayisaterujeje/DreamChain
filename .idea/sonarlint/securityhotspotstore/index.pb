@@ -5,3 +5,5 @@ J
 contracts/dream-token.clar,a/6/a6a8d00c9c005101d1a6d6fb5ddb6e9d1a697810
 I
 tests/dream-token.test.ts,e/c/ec9d8dfd9f8b3e34783956a5538c08dfe29692ce
+L
+contracts/dream-sharing.clar,8/0/8091cadc52e36dba079575efd0ff104a31ecfbf9

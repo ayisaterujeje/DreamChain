@@ -7,3 +7,5 @@ I
 tests/dream-token.test.ts,e/c/ec9d8dfd9f8b3e34783956a5538c08dfe29692ce
 L
 contracts/dream-sharing.clar,8/0/8091cadc52e36dba079575efd0ff104a31ecfbf9
+K
+tests/dream-sharing.test.ts,6/b/6bde7d4078c69ca4801d5de815f9952b68b1d4a5
